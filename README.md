@@ -1,2 +1,2 @@
 # FONPE-algorithm
-FONPE
+FONPE  algorithm is a dimension reduction algorithm.
